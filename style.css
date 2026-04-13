@@ -21,11 +21,11 @@ p {
 }
 
 button {
-    background-color: #ff4757;
+    background-color: #2007b1;
     border: none;
     padding: 15px 30px;
     font-size: 18px;
-    color: white;
+    color: rgb(22, 2, 112);
     border-radius: 10px;
     cursor: pointer;
     transition: 0.3s;
