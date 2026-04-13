@@ -15,12 +15,12 @@ function mostrarMensagem() {
 
     let mensagem = document.getElementById("mensagem");
 
-    if (bugsDestruidos === 5) {
+    if (bugsDestruidos === 3) {
         mensagem.textContent =
             "🔥 Você está pegando o jeito!";
     }
 
-    else if (bugsDestruidos === 10) {
+    else if (bugsDestruidos === 8) {
         mensagem.textContent =
             "⚡ Nível Júnior alcançado!";
     }
